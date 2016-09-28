@@ -1,138 +1,138 @@
 msgid ""
 msgstr ""
-"Last-Translator: Ask Bjørn Hansen <ask@develooper.com>\n"
+"Last-Translator: Sotiris Tsimbonis <ntp@x33.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "go up"
-msgstr "go up"
+msgstr "κορυφή σελίδας"
 
 # zone names
 msgid "Africa"
-msgstr "Africa"
+msgstr "Αφρική"
 
 msgid "Asia"
-msgstr "Asia"
+msgstr "Ασία"
 
 msgid "North America"
-msgstr "North America"
+msgstr "Βόρεια Αμερική"
 
 msgid "South America"
-msgstr "South America"
+msgstr "Νότια Αμερική"
 
 msgid "Europe"
-msgstr "Europe"
+msgstr "Ευρώπη"
 
 msgid "Oceania"
-msgstr "Oceania"
+msgstr "Ωκεανία"
 
 msgid "Global"
-msgstr "Global"
+msgstr "Παγκόσμιο"
 
 msgid "All Pool Servers"
-msgstr "All Pool Servers"
+msgstr "Ολοι οι Servers του Pool"
 
 # navigation
 msgid "Translations"
-msgstr "Translations"
+msgstr "Μεταφράσεις"
 
 # index.html
 msgid  "Introduction"
-msgstr "Introduction"
+msgstr "Εισαγωγή"
 
 msgid  "Active Servers"
-msgstr "Active Servers"
+msgstr "Ενεργοί Servers"
 
 msgid  "Links"
-msgstr "Links"
+msgstr "Σύνδεσμοι"
 
 msgid  "Terms of service"
-msgstr "Terms of service"
+msgstr "Όροι Χρήσης"
 
 msgid  "Subscribe in a reader"
-msgstr "Subscribe in a reader"
+msgstr "Εγγραφή με RSS reader"
 
 msgid  "Older news"
-msgstr "Older news"
+msgstr "Παλιότερα νέα"
 
 # mailinglists.html
 msgid  "NTP Pool mailing lists"
-msgstr "NTP Pool mailing lists"
+msgstr "Λίστες Ταχυδρομείου NTP Pool"
 
 msgid  "subscribe"
-msgstr "subscribe"
+msgstr "εγγραφή (subscribe)"
 
 msgid  "archive"
-msgstr "archive"
+msgstr "αρχείο (archive)"
 
 msgid  "Announcement list"
-msgstr "Announcement list"
+msgstr "Λίστα Ανακοινώσεων (Announcement)"
 
 msgid  "Discussion list"
-msgstr "Discussion list"
+msgstr "Λίστα Συζήτησης (Discussion)"
 
 msgid  "Development list"
-msgstr "Development list"
+msgstr "Λίστα Ανάπτυξης Κώδικα (Development)"
 
 msgid  "announcement_list_description"
-msgstr "Very very low traffic announcements of NTP Pool news.  All server operators should be subscribed to the announcement list."
+msgstr "Πολύ σπάνιες ανακοινώσεις για νέα του NTP Pool. Όλοι οι διαχειριστές servers θα πρέπει να εγγραφούν στη Λίστα Ανακοινώσεων (Announcement list)."
 
 msgid  "discussion_list_description"
-msgstr "Server operators (and users) who wish to be more involved in the project can subscribe to the discussion list.<br/> Of course, general discussions about ntp should take place on the %1 Usenet newsgroup (also on <a href=\"%2\">Google Groups</a>)."
+msgstr "Διαχειριστές servers (και χρήστες) που θέλουν να συμμετέχουν περισσότερο στο NTP Pool project μπορούν να εγγραφούν στη Λίστα Συζητήσεων (Discussion list).<br/> Φυσικά, γενικές συζητήσεις σχετικά με ntp θα πρέπει να λαμβάνουν χώρα στο %1 Usenet newsgroup (επίσης στα <a href=\"%2\">Google Groups</a>)."
 
 msgid  "development_list_description"
-msgstr "More technical (and ideally always pragmatic) discussions about the current development of the <a href=\"%1\">ntp pool code</a> and <a href=\"%2\">pgeodns</a> happens on the timekeepers-dev list."
+msgstr "Πιο τεχνικές (και ιδανικά πάντα ρεαλιστικές) συζητήσεις σχετικά με την ανάπτυξη του <a href=\"%1\">κώδικα ntp pool</a> και του <a href=\"%2\">pgeodns</a> λαμβάνει χώρα στη Λίστα timekeepers-dev."
 
 msgid  "irc_channel_description"
-msgstr "There's a %2 IRC channel for server operators and users on %1."
+msgstr "Στο δίκτυο IRC %1 υπάρχει το κανάλι %2 για διαχειριστές servers και χρήστες."
 
 # tpl/server.html
 msgid  "Back to the front page"
-msgstr "Back to the front page"
+msgstr "Επιστροφή στην αρχική σελίδα"
 
 msgid  "Find"
-msgstr "Find"
+msgstr "Αναζήτηση"
 
 msgid  "Stats for %1"
-msgstr "Statistics for %1"
+msgstr "Στατιστικά για %1"
 
 msgid  "Not active in the pool, monitoring only"
-msgstr "Not active in the pool, monitoring only"
+msgstr "Μη ενεργός στο pool, μόνο παρακολούθηση"
 
 msgid  "Zones:"
-msgstr "Zones:"
+msgstr "Ζώνες:"
 
 msgid  "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
-msgstr "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
+msgstr "Αυτός ο server είναι <span class=\"deletion\">προγραμματισμένος για διαγραφή</span> στις %1."
 
 msgid  "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
-msgstr "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
+msgstr "Τρέχων σκορ: %1 (μόνο servers με σκορ μεγαλύτερο από %2 συμμετέχουν στο pool)"
 
 msgid  "What do the graphs mean?"
-msgstr "What do the graphs mean?"
+msgstr "Τι σημαίνουν τα γραφήματα;"
 
 msgid  "CSV log"
 msgstr "CSV log"
 
 # tpl/navigation_sidebar.html
 msgid  "News"
-msgstr "News"
+msgstr "Νέα"
 
 msgid  "How do I <i>use</i> pool.ntp.org?"
-msgstr "How do I <i>use</i> pool.ntp.org?"
+msgstr "Πως <i>χρησιμοποιώ</i> το pool.ntp.org?"
 
 msgid  "How do I <i>join</i> pool.ntp.org?"
-msgstr "How do I <i>join</i> pool.ntp.org?"
+msgstr "Πως <i>συμμετέχω</i> στο pool.ntp.org?"
 
 msgid  "Information for vendors"
-msgstr "Information for vendors"
+msgstr "Πληροφορίες για vendors"
 
 msgid  "The mailing lists"
-msgstr "The mailing lists"
+msgstr "Λίστες ηλεκτρονικού ταχυδρομείου"
 
 msgid  "Additional links"
-msgstr "Additional links"
+msgstr "Επιπλέον σύνδεσμοι"
 
 msgid  "Can you translate?"
-msgstr "Can you translate?"
+msgstr "Μπορείς να μεταφράσεις;"
